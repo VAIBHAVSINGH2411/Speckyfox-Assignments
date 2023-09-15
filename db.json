@@ -1,0 +1,78 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Samung m40",
+      "color": "black",
+      "price": 15000,
+      "category": "Mobile",
+      "brand": "Samung",
+      "photo": "https://www.freeiconspng.com/thumbs/mobile-icon-png/mobile-phone--10-free-icons-icon-search-engine-28.png"
+    },
+
+    {
+      "id": 2,
+      "name": "Samung F20",
+      "color": "white",
+      "price": 5000,
+      "category": "Mobile",
+      "brand": "Samung",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgdmfB4rJuVUbmqWSVD_GyvpV6HHFnLiqplBJhaVvtzZgmXq0fKkGcyB0rf414hIXrqvA&usqp=CAU"
+    },
+
+    {
+      "id": 3,
+      "name": "T-sirt",
+      "color": "red",
+      "price": 500,
+      "category": "cloths",
+      "brand": "Nike",
+      "photo": "https://media.istockphoto.com/id/465485445/photo/red-t-shirt-clipping-path.jpg?s=612x612&w=0&k=20&c=SfSPtHeslymJs8KbopzzDWHZzYIAdMMnfon0JRkwfVw="
+    },
+    {
+      "id": 4,
+      "name": "Sports_Shoes",
+      "color": "red and black",
+      "price": 1000,
+      "category": "rebock",
+      "brand": "Nike",
+      "photo": "https://assets.ajio.com/medias/sys_master/root/20220826/7WW7/6308b3baaeb2691761a7e54f/-473Wx593H-463196082-blue-MODEL.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sports_Shoes",
+      "color": "red and black",
+      "price": 800,
+      "category": "rebock",
+      "brand": "Nike",
+      "photo": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/198ba917791f4509b68aad790105b454_9366/EQ19_Run_Shoes_Pink_GZ0564_02_standard_hover.jpg"
+    },
+    {
+      "id": 6,
+      "name": "hp laptop",
+      "color": "black",
+      "price": 25000,
+      "category": "laptop",
+      "brand": "HP",
+      "photo": "https://www.transparentpng.com/thumb/laptop/u6tKAK-laptop-png-image-purepng-free-transparent-png.png"
+    },
+    {
+      "id": 7,
+      "name": "watch",
+      "color": "black",
+      "price": 800,
+      "category": "watch",
+      "brand": "sony",
+      "photo": "https://www.shutterstock.com/image-photo/luxury-watch-isolated-on-white-260nw-1233640588.jpg"
+    },
+    {
+      "id": 8,
+      "name": "cup",
+      "color": "red",
+      "price": 100,
+      "category": "cup",
+      "brand": "local",
+      "photo": "https://cdn.shopclues.com/images/thumbnails/42622/320/320/96839480mg1376manhattanred14434339101470828231.jpg"
+    }
+  ]
+}
